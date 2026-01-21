@@ -2,17 +2,6 @@
 //
 //		File:					node.h
 //
-//		Student:				Ryan Bibb
-//
-//		Assignment:				Program # 11
-//
-//		Course Name:			Data Structures I
-//
-//		Course Number:			COSC 3050-Z1
-//
-//		Due:					11/25/25
-//
-//
 //		This file creates the node struct
 //	
 //		Other files required: 
