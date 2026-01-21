@@ -2,17 +2,6 @@
 //
 //		File:					studentList.cpp
 //
-//		Student:				Ryan Bibb
-//
-//		Assignment:				Program # 11
-//
-//		Course Name:			Data Structures I
-//
-//		Course Number:			COSC 3050-Z1
-//
-//		Due:					11/25/25
-//
-//
 //		This file creates is the main cpp file that creates a linked list of type Student
 //		aand creates a student database
 //	
@@ -68,7 +57,7 @@ char getChoice()
 		<< "C: Count Students\n"
 		<< "R: Remove a Student Record\n"
 		<< "D: Display All Students\n"
-		<< "Q: Quit\n"
+		<< "Q: Quit (Exit)\n\n"
 		<< "Enter your choice: ";
 
 	do
